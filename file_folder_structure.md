@@ -4,7 +4,8 @@ project_janus/
 │   ├── 00_project_vision.md
 │   ├── 01_glossary.md
 │   ├── 02_core_principles.md
-│   └── 03_integration_framework.md
+│   ├── 03_integration_framework.md
+│   └── 04_ethical_framework.md
 ├── domains/
 │   ├── biological/
 │   │   ├── overview.md
