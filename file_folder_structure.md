@@ -50,6 +50,8 @@ project_janus/
 │   ├── computational_models/
 │   │   ├── cognitive_architectures.md
 │   │   ├── agent_frameworks.md
+│   │   ├── janus_guardrail_protocol_claude.md
+│   │   ├── janus_guardrail_protocol-gemini.md
 │   │   └── simulation_environments.md
 │   ├── practical_applications/
 │   │   ├── mental_health.md
